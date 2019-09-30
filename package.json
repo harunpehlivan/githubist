@@ -30,7 +30,7 @@
     "express": "^4.16.3",
     "graphql": "^14.0.2",
     "graphql-tag": "^2.10.0",
-    "helmet": "^3.13.0",
+    "helmet": "^3.21.1",
     "node-fetch": "^2.2.0",
     "number-abbreviate": "^2.0.0",
     "react": "^16.5.2",
